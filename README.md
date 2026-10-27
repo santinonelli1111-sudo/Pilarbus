@@ -1,18 +1,30 @@
 # Pilarbus: ecosistema móvil de transporte publico 
-Proyecto Pilarbus: planificación con scrum, gestión de tareas y control de versiones para una aplicación de transporte publico de pilar
+Proyecto Pilarbus: Planificación con Scrum, gestión de tareas y control de versiones para una aplicación de transporte publico de Pilar
 
-## integrantes 
+## Integrantes 
 - Juan Vizgarra
 - Lautaro Olmedo
 - Vanesa Pavia
 - 
 
-## descripción del texto 
-pilarbus es una propuesta de aplicación móvil y plataforma web para consultar para consultar recorridos y la ubicación de los colectivos en tiempo real. tambien contempla funcionalidades como alertas de desvíos y envio de reclamos.
+## Descripción del proyecto 
+Pilarbus es una propuesta de aplicación móvil y plataforma web para consultar recorridos y la ubicación de los colectivos en tiempo real. tambien contempla funcionalidades como alertas de desvíos y envio de reclamos.
 
-## trabajo en ramas y pull requests
-la rama principal del repositorio denominada **main**, contendia los cambion revisados y validados del proyecto.
-para poder desarrollar una funcionalidad o corregir un error, el encargado de la tarea creara una rama independiente para trabajar en ella. por ejemplo: se crea la rama feature/alertas-desvios y en esta se desarrollaran las notificaciones sobre cambios de recorrido para luego agragarlas a la rama principal.
+## Trabajo en ramas y pull requests
+La rama principal del repositorio denominada **`Main`**, contendría los cambio revisados y validados del proyecto.
+Para poder desarrollar una funcionalidad o corregir un error, el encargado de la tarea creara una rama independiente para trabajar en ella. por ejemplo: se crea la rama `feature/alertas-desvíos` y en esta se desarrollaran las notificaciones sobre cambios de recorrido para luego agregarlas a la rama principal.
+Estos avances se registraran mediante commits (registros de los cambios del proyecto) con mensajes claros que describan las modificaciones realizadas.
+Una vez preparado el cambio, el integrante abrirá un **Pull requests** para solicitar la incorporación al **`Main`**. este PR incluirá: 
+- Una descripción del cambio y su objetivo.
+- La tarjeta de trello relacionada.
+- Las pruebas realizadas.
+Con este mecanismo se puede hacer una revisión del trabajo antes de incorporarlo de la versión principal y mantener un registro de las deciciones que toma el equipo.
+
+
+  
+
+
+
 
 
 
