@@ -20,12 +20,10 @@ Una vez preparado el cambio, el integrante abrirá un **Pull requests** para sol
 - Las pruebas realizadas.
 Con este mecanismo se puede hacer una revisión del trabajo antes de incorporarlo de la versión principal y mantener un registro de las deciciones que toma el equipo.
 
-
-  
-
-
-
-
-
-
-
+## revisión y aprobación de cambios  
+Cada pull requests debe ser revisado por al menos un integrante del grupo, diferente a quien hizo el cambio. Esta persona tiene que comprobar que el cambio responda a la tarea planteada y cuente con las pruebas necesarias, en caso de encontrar errores se deben solicitar correcciones y dejar comentarios.
+la incorporación a `Main` denominada **Marge** (la incorporacion de una rama a la rama principal) se permite cuando: 
+- El cambio cumpla con los criterios que pide la tarea
+- Las observaciones de la revisión estén resueltas
+- Exista una aprobacion de otro integrante
+- Los controles automaticos de build y test finalicen correctamente
