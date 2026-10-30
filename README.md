@@ -10,6 +10,10 @@ Proyecto Pilarbus: Planificación con Scrum, gestión de tareas y control de ver
 ## Descripción del proyecto 
 Pilarbus es una propuesta de aplicación móvil y plataforma web para consultar recorridos y la ubicación de los colectivos en tiempo real. tambien contempla funcionalidades como alertas de desvíos y envio de reclamos.
 
+## Justificación metodológica 
+El proyecto "Pilarbus" presenta características que hacen que un enfoque tradicional, no sea el más adecuado, ya que existe alta incertidumbre sobre los requisitos: las funcionalidades se irán definiendo y modificando según la retroalimentación de los usuarios beta. En este contexto, Scrum resulta la metodología ideal, porque trabaja en ciclos cortos e iterativos llamados Sprints, lo que permite incorporar cambios en cualquier momento sin alterar todo el proyecto.
+A diferencia de los modelos tradicionales, donde se intenta definir todo desde el inicio y los cambios tienen costos adicionales, el flujo de trabajo continuo que propone Scrum permite entregar valor de forma progresiva, recibir comentarios y mejorar el producto paso a paso. Este se ajusta perfectamente a las necesidades del proyecto, ya que además requiere actualizaciones constantes sin interrumpir el servicio.
+
 ## Trabajo en ramas y pull requests
 La rama principal del repositorio denominada **`Main`**, contendría los cambio revisados y validados del proyecto.
 Para poder desarrollar una funcionalidad o corregir un error, el encargado de la tarea creara una rama independiente para trabajar en ella. por ejemplo: se crea la rama `feature/alertas-desvíos` y en esta se desarrollaran las notificaciones sobre cambios de recorrido para luego agregarlas a la rama principal.
